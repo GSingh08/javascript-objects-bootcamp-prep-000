@@ -1,7 +1,7 @@
 var playlist = {'taylor swift':"love story", 'john cena': "you cant see me"};
 
-function updatePlaylist(playlist, lil wayne, Fireman){
-  
+function updatePlayList( playlist, lilwayne, Fireman){
+  playlist.lilwayne = "fireman";
   return playlist
   
 }
