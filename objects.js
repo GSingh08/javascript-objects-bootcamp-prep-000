@@ -7,6 +7,6 @@ function updatePlaylist( playlist, artistName, songTitle){
 }
 
 function removeFromPlaylist(playlist, artistName){
-delete playlist.taylor swift;
+delete playlist.'taylor swift';
 return playlist;
 }
