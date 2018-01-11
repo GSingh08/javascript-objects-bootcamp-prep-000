@@ -1,3 +1,1 @@
-var playlist = { 
-  john cena: 'you cant see me', 
-  nachhattar gill : 'sheesha' }; 
+var playlist = {'taylor swift':"idk name", 'john cena': "lol"};
