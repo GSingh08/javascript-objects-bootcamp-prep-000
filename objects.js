@@ -1,1 +1,3 @@
-var playlist = new Object ({ Jay Sean: "Down", Lil Wayne: "fireman"});
+var playlist = { 
+  john cena: 'you cant see me', 
+  nachhattar gill : 'sheesha' }; 
