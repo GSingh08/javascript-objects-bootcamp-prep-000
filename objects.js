@@ -1,4 +1,4 @@
-var playlist = {'taylor swift':"love story", 'john cena': "you cant see me"};
+let playlist = {'taylor swift':"love story", 'john cena': "you cant see me"};
 
 function updatePlaylist( playlist, artistName, songTitle){
   playlist[artistName] = songTitle;
@@ -8,6 +8,6 @@ function updatePlaylist( playlist, artistName, songTitle){
 
 function removeFromPlaylist(playlist, artistName){
 delete playlist.artistName;
-
+return playlist;
 
 }
